@@ -16,7 +16,8 @@ import { education } from "@cv"
           startDate,
           endDate,
           score,
-          courses
+          courses,
+          certificateUrl
         }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
@@ -34,14 +35,19 @@ import { education } from "@cv"
                     <h4>
                       {area} 
                       <br>
-                      {studyType}                
+                      {studyType}   
+                      <br>
+                      {courses && (
+  <a href={certificateUrl} target="_blank" rel="noopener noreferrer">
+    {courses}
+  </a>
+)}             
                     </h4>
+                    
                   </div>
 
                   <time>{years}</time>
                 </header>
-
-               
               </article>
             </li>
           )
