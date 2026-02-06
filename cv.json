@@ -1,0 +1,311 @@
+{
+  "basics": {
+    "name": "José Antonio Medellín Torres.",
+    "label": "Java Developer",
+    "image": "/me.webp",
+    "email": "foca-master@hotmail.com",
+    "phone": "+52 2271114671",
+    "url": null,
+    "summary": "Desarrollador de software con experiencia en Java, Spring Boot y microservicios. He participado en proyectos empresariales desarrollando APIs, optimizando procesos backend y colaborando en equipos ágiles. Me enfoco en crear soluciones escalables, mantener buenas prácticas y seguir creciendo en tecnologías cloud y desarrollo web.",
+    "location": {
+      "address": "",
+      "postalCode": "74160",
+      "city": "Huejotzingo, PUE",
+      "countryCode": "MX",
+      "region": "México"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "José Antonio Medellín Torres.",
+        "url": "https://www.linkedin.com/in/jos%C3%A9-medell%C3%ADn-torres-93b763a2/"
+      },
+      
+    {
+      "network": "GitHub",
+      "username": "boykator10",
+      "url": "https://github.com/boykator10"
+    }
+  ]
+  },
+  "work": [{
+    "name": "MINSAIT - Bancoppel",
+    "position": "Java Developer",
+    "url": null,
+    "startDate": "2024-09-02",
+    "endDate": null,
+    "summary": "Desarrollo y mantenimiento de APIs empresariales utilizando Java 17 y Spring Boot dentro de una arquitectura de microservicios. Participación en integraciones mediante MuleSoft y gestión de proxies en GCP Apigee. Optimización de procesos backend, validación de stored procedures en IBM Informix y automatización de despliegues con Jenkins, trabajando bajo metodología Scrum en entornos de alta disponibilidad.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "STEFANINI GROUP - WALMART. ",
+    "position": "Java Developer Web",
+    "url": null,
+    "startDate": "2023-09-01",
+    "endDate": "2024-06-01",
+    "summary": "Desarrollo de backend con Java y Spring Boot, creación de operaciones CRUD y despliegues en servidor. Soporte a frontend con React y mejoras funcionales en módulos de negocio. Participación en proyectos de migración a GCP y generación de reportes PDF/Excel bajo metodología Scrum.",
+    "highlights": [
+      "Started the company"
+    ]
+  },
+  {
+    "name": "ENUCOM",
+    "position": "Junior Java Developer",
+    "startDate": "2022-09-01",
+    "endDate": "2023-09-01",
+    "summary": "Desarrollo de módulos internos con Java y Spring Boot, mantenimiento de sistemas de RRHH y apoyo técnico a equipos en Angular y servicios web bajo metodología Scrum.",
+    "highlights": [
+      "Started the company"
+    ]
+  }],
+  "education": [{
+    "institution": "IEU Universidad",
+    "url": null,
+    "area": "Ingeniería y tecnología.",
+    "studyType": "Maestría en Desarrollo y Operaciones de Software.",
+    "startDate": "2024-02-06",
+    "endDate": "2025-05-30",
+    "score": "4.0",
+    "courses": [
+      "CLOUD COMPUTING"
+    ]
+  },
+{
+    "institution": "IEDEP - Instituto de Educación Digital del Estado de Puebla.",
+    "url": null,
+    "area": "Ingeniería y tecnología.",
+    "studyType": "Lic. Sistemas Computacionales.",
+    "startDate": "2017-05-06",
+    "endDate": "2022-08-27",
+    "score": "8.93",
+    "courses": [
+      null
+    ]
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+        "name": "Backend",
+        "level": null       
+    },
+    {
+        "name": "Java 8 - 17",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "Spring Boot",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "MicroServicios",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "Sonar Qube",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+      {
+        "name": "MuleSoft",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "GCP – Apigee",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "MVC",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "RESTful API",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+       {
+        "name": "JSON",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend"
+        ]
+      },
+      {
+        "name": "SQL",
+        "level": "Medium",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+    {
+        "name": "Frontend",
+        "level": null       
+    },
+        {
+        "name": "HTML",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      
+      {
+        "name": "CSS",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        ]
+      },
+      {
+        "name": "Node",
+        "level": "Medium",
+        "keywords": [
+          "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        ]
+      },
+      {
+        "name": "Angular",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Basic",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      },
+       {
+        "name": "Otros",
+        "level": null       
+    },
+     {
+        "name": "Git",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "GitHub",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+       {
+        "name": "Intellij IDEA",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+       {
+        "name": "VS Code",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+       {
+        "name": "Scrum",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+       {
+        "name": "Spring Tools",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      },
+       {
+        "name": "Jira",
+        "level": "Medium",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        ]
+      }
+    ],
+  "languages": [{
+    "language": "Spanish",
+    "fluency": "Native speaker"
+  }],
+  "projects": [
+    {
+    "name": "Storefighters MMA & BJJ",
+    "isActive": true,
+    "description": "Ecommerce enfocado a la venta de artículos para deportes de contacto y artes marciales.",
+    "highlights": [
+      "Somos tumejor opción.",
+      "En desarrollo"
+    ],
+    "url": "https://storefighters.com.mx/"
+  }]
+}
